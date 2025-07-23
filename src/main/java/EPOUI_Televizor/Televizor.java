@@ -1,4 +1,4 @@
-package EPOUI_classes;
+package EPOUI_Televizor;
 
 import java.util.Scanner;
 import java.util.Random;

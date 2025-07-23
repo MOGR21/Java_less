@@ -1,4 +1,4 @@
-package EPOUI_classes;
+package EPOUI_Televizor;
 
 class App {
     public static void main(String[] args) {
